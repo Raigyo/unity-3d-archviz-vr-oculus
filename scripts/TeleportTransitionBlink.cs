@@ -11,6 +11,7 @@ using System;
 using UnityEngine;
 using System.Collections;
 
+
 /// <summary>
 /// This transition will cause the screen to quickly fade to black, perform the repositioning, and then fade 
 /// the view back to normal.
