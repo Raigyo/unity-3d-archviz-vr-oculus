@@ -1,6 +1,6 @@
 # Unity 3D / C# / Visual Studio - Original house visit development - 'Archviz - Virtual Reality for Oculus Rift' - version 1.0
 
-*January 2020 - Development time: 2 days*
+*January 2020 - Development time: 2 days (excuding the house design)*
 
 > 🔨 House visit made with Unity 3D (ver. 2019.2.4f1). Visit a non existing house in a realistic 3D environment. It's the VR version for Oculus Rift of my 'Archviz' work (see the repository [here](https://github.com/Raigyo/unity-3d-archviz)).
 
