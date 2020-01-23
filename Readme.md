@@ -8,7 +8,7 @@
 
 ![living-vr](images/04-living1.jpg)
 
-![bath-vr](06-bath.jpg)
+![bath-vr](images/06-bath.jpg)
 
 ## 1. Installation
 
