@@ -16,7 +16,7 @@ You need a *high-end computer* and an *Oculus Rift* or an *Oculus Rift S* to run
 
 ### 1.1 Oculus Software
 
-You need the Oculus sofware installed and to allow content from unknown sources.
+You need the Oculus sofware installed and allow content from unknown sources.
 
 - Open the Oculus app on your PC computer.
 - Select Settings in the left menu.
