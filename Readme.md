@@ -31,7 +31,7 @@ Download the installer [here](https://raigyo-dev.be/downloads/archviz-vr/archviz
 
 #### 1.2.2 Zip version
 
-Download the zip with the game [here]([https://drive.google.com/open?id=1CduzX2P7fIlMJrez-wmoXrY0amw8shd5](https://raigyo-dev.be/downloads/archviz-vr/archviz-vr-windows64.zip)) [979Mb] and unzip archviz-vr-windows64.zip on your computer.
+Download the zip with the game [here](https://raigyo-dev.be/downloads/archviz-vr/archviz-vr-windows64.zip) [979Mb] and unzip archviz-vr-windows64.zip on your computer.
 
 In 'archviz-vr-windows64' launch architecture.exe by clicking on it to play.
 
