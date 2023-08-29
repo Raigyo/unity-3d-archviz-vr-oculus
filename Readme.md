@@ -27,17 +27,17 @@ You need the Oculus sofware installed and allow content from unknown sources.
 
 #### 1.2.1 Windows Installer
 
-Download the installer [here](https://drive.google.com/open?id=1nyUdpqEU5V10D-vMKJiu50pfiaXsPvqY) [802Mb] and just follow the instructions.
+Download the installer [here](https://raigyo-dev.be/downloads/archviz-vr/archviz-vr-setup.exe) [802Mb] and just follow the instructions.
 
 #### 1.2.2 Zip version
 
-Download the zip with the game [here](https://drive.google.com/open?id=1CduzX2P7fIlMJrez-wmoXrY0amw8shd5) [979Mb] and unzip archviz-vr-windows64.zip on your computer.
+Download the zip with the game [here]([https://drive.google.com/open?id=1CduzX2P7fIlMJrez-wmoXrY0amw8shd5](https://raigyo-dev.be/downloads/archviz-vr/archviz-vr-windows64.zip)) [979Mb] and unzip archviz-vr-windows64.zip on your computer.
 
 In 'archviz-vr-windows64' launch architecture.exe by clicking on it to play.
 
 ### 1.3 Mac OSX
 
-Download the zip with the game [here](https://drive.google.com/open?id=1WvVFpTmmvx9Wio8m4xWhrdVnm0L5NCTX) [980Mb] and unzip archviz-vr-mac-osx.zip on your computer.
+Download the zip with the game [here](https://raigyo-dev.be/downloads/archviz-vr/archviz-vr-mac-osx.zip) [980Mb] and unzip archviz-vr-mac-osx.zip on your computer.
 
 In 'archviz-vr-mac-osx' launch archviz-mac-osx.app by clicking on it to play.
 
